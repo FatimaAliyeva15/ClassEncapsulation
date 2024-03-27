@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|c:\\users\\asus\\desktop\\classencapsulation\\classencapsulation\\classencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|solutionrelative:classencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\classencapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|solutionrelative:classencapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\classencapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|solutionrelative:classencapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\classencapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C35333-45A4-4208-8527-3098C5C3F2E9}|ClassEncapsulation\\ClassEncapsulation.csproj|solutionrelative:classencapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Library.cs",
+              "RelativeDocumentMoniker": "ClassEncapsulation\\Library.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Library.cs",
+              "RelativeToolTip": "ClassEncapsulation\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:22:09.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Book.cs",
+              "RelativeDocumentMoniker": "ClassEncapsulation\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Book.cs",
+              "RelativeToolTip": "ClassEncapsulation\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:10:05.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "ClassEncapsulation\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Product.cs",
+              "RelativeToolTip": "ClassEncapsulation\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:01:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "ClassEncapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ClassEncapsulation\\ClassEncapsulation\\ClassEncapsulation\\Program.cs",
+              "RelativeToolTip": "ClassEncapsulation\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:00:46.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
